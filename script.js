@@ -23,13 +23,13 @@ $(document).ready(function() {
 
   var typed = new Typed('.typing', {
     strings: [
-      "simple",
+      "Useful",
       "powerful",
       "easy to use",
-      "cute",
-      "your Waifu",
+      "Free Members",
+      "Grow Servers",
       "made with love",
-      "Hot",
+      "Insane",
       "well developed",
       "nice",
     ],
